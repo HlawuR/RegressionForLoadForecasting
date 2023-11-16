@@ -4,14 +4,14 @@ This repository contains code developed by Team NM2 during the regression sprint
 ## Overview
 The project focuses on regression modeling to predict load shortfall. Our team worked on developing and fine-tuning regression models to accurately forecast load shortfall.
 
-33 Project Structure
-data/: Contains datasets used for training and testing.
-notebooks/: Jupyter notebooks used for exploratory data analysis, model development, and evaluation.
-utils/: Utility functions and scripts used in data preprocessing, model training, and prediction.
-Requirements
-Python3
-Libraries: Pandas, NumPy, Scikit-learn, etc. (see requirements.txt for full list)
-Usage
+### Project Structure
+- data/: Contains datasets used for training and testing.
+- notebooks/: Jupyter notebooks used for exploratory data analysis, model development, and evaluation.
+- utils/: Utility functions and scripts used in data preprocessing, model training, and prediction.
+###Requirements
+- Python3
+- Libraries: Pandas, NumPy, Scikit-learn, etc. (see requirements.txt for full list)
+### Usage
 Clone the repository:
 
 bash
