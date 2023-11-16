@@ -32,11 +32,11 @@ Explore the notebooks in the notebooks/ directory to understand the data explora
 Use the utility scripts in the utils/ directory for data preprocessing, model training, and prediction.
 
 ## Authors
-Mkhosi
-Ngokoana
-Mashoto
-Nina
-Amanda
+Mkhosi,
+Ngokoana,
+Mashoto,
+Nina,
+Amanda,
 Hlawulekani
 
 ## License
